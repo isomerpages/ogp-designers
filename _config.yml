@@ -47,7 +47,7 @@ colors:
     - title: media-color-one
       color: ''
     - title: media-color-two
-      color: ''
+      color: '#a9a9a9'
     - title: media-color-three
       color: ''
     - title: media-color-four
