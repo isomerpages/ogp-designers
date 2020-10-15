@@ -41,7 +41,7 @@ plugins:
   - jekyll-sitemap
 description: test test
 colors:
-  primary-color: '##6031b6'
+  primary-color: '#6031b6'
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
