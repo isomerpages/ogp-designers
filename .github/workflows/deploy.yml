@@ -74,4 +74,4 @@ jobs:
         run: |
           mv _site/netlify.toml .
           npm install -g netlify-cli
-          netlify deploy --prod --dir=$GITHUB_WORKSPACE/_site --auth auth --site site
+          netlify deploy --prod --dir=$GITHUB_WORKSPACE/_site
