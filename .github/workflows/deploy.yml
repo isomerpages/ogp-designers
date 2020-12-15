@@ -67,9 +67,21 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '12'
+      - name: Site Id Selection
+        env:
+          NETLIFY_SITE_ID_STAGING: ${{ secrets.NETLIFY_SITE_ID_STAGING }} 
+          NETLIFY_SITE_ID_PRODUCTION: ${{ secrets.NETLIFY_SITE_ID_PRODUCTION }}
+        run: |
+          if [ $GITHUB_REF = $STAGING_BRANCH ]
+          then
+            echo NETLIFY_SITE_ID=$NETLIFY_SITE_ID_STAGING >> $GITHUB_ENV
+          fi
+          if [ $GITHUB_REF = $PRODUCTION_BRANCH ]
+          then
+            echo NETLIFY_SITE_ID=$NETLIFY_SITE_ID_PRODUCTION >> $GITHUB_ENV
+          fi
       - name: Publish
         env:
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         run: |
           mv _site/netlify.toml .
