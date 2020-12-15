@@ -1,0 +1,77 @@
+name: deploy
+on:
+  push:
+  pull_request:
+    types: [opened, reopened]
+env:
+  PRODUCTION_BRANCH: refs/heads/master
+  STAGING_BRANCH: refs/heads/staging
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: set JEKYLL_ENV
+        run: echo $GITHUB_REF | sed 's/refs.heads./JEKYLL_ENV=/' >> $GITHUB_ENV
+      - name: bundle install & jekyll build
+        run: |
+          gem install bundler:2.1.4
+          bundle config path vendor/bundle
+          bundle install
+          bundle exec jekyll build
+          cp netlify.toml ./_site
+      - uses: actions/upload-artifact@master
+        with:
+          name: site
+          path: _site
+
+  gatekeep:
+    name: Determine if Build & Deploy is needed
+    outputs:
+      proceed: ${{ steps.determine_proceed.outputs.proceed }}
+    runs-on: ubuntu-18.04
+    if: github.event_name == 'push'
+    steps:
+      - shell: python
+        id: determine_proceed
+        run: |
+          import os
+          ref = os.environ['GITHUB_REF']
+          prod = os.environ['PRODUCTION_BRANCH']
+          staging = os.environ['STAGING_BRANCH']
+          if ref == prod or ref == staging:
+            print('::set-output name=proceed::true')
+          else:
+            print('::set-output name=proceed::false')
+
+  publish-site:
+    name: Publish Site
+    needs: [build, gatekeep]
+    runs-on: ubuntu-18.04
+    if: needs.gatekeep.outputs.proceed == 'true'
+    steps:
+      - uses: actions/download-artifact@master
+        with:
+          name: site
+          path: _site
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+      - name: Publish
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: |
+          mv _site/netlify.toml .
+          npm install -g netlify-cli
+          netlify deploy --prod --dir=$GITHUB_WORKSPACE/_site --auth auth --site site
