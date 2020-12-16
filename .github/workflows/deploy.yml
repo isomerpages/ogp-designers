@@ -35,8 +35,8 @@ jobs:
           name: site
           path: _site
 
-  gatekeep:
-    name: Determine if Build & Deploy is needed
+  determine-deploy:
+    name: Determine If Deploy Is Needed
     outputs:
       proceed: ${{ steps.determine_proceed.outputs.proceed }}
     runs-on: ubuntu-18.04
@@ -54,11 +54,11 @@ jobs:
           else:
             print('::set-output name=proceed::false')
 
-  publish-site:
-    name: Publish Site
-    needs: [build, gatekeep]
+  deploy-site:
+    name: Deploy Site
+    needs: [build, determine-deploy]
     runs-on: ubuntu-18.04
-    if: needs.gatekeep.outputs.proceed == 'true'
+    if: needs.determine-deploy.outputs.proceed == 'true'
     steps:
       - uses: actions/download-artifact@master
         with:
@@ -86,4 +86,4 @@ jobs:
         run: |
           mv _site/netlify.toml .
           npm install -g netlify-cli
-          netlify deploy --prod --dir=$GITHUB_WORKSPACE/_site
+          netlify deploy --prod --message run-${{ github.run_id }}-sha-${{ github.sha }} --dir=$GITHUB_WORKSPACE/_site
