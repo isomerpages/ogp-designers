@@ -5,7 +5,7 @@ on:
     types: [opened, reopened]
 env:
   PRODUCTION_BRANCH: refs/heads/master
-  STAGING_BRANCH: refs/heads/staging
+  STAGING_BRANCH: refs/heads/netlify-actions-test
 jobs:
   build:
     runs-on: ubuntu-18.04
