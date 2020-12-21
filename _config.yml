@@ -2,9 +2,9 @@ title: Hello
 url: ''
 favicon: /images/favicon-isomer.ico
 collections:
-  left-nav-one:
-    output: true
   left-nav-two:
+    output: true
+  About Us:
     output: true
 resources_name: resource-room
 permalink: none
