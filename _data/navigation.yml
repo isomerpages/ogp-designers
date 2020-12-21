@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Contact Us
     url: /contact-us/
@@ -17,8 +10,8 @@ links:
     url: /terms-of-use/
   - title: Who We Are
     url: /who-we-are/
-  - title: Left Nav One
-    collection: left-nav-one
+  - title: About Us
+    collection: About Us
   - title: Left Nav Two
     collection: left-nav-two
   - title: Resource Room
