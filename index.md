@@ -22,8 +22,10 @@ sections:
   - infobar:
       title: Contact us
       description: About a sentence worth of description here
-  - resources:
-      title: sabds
-      subtitle: Hello
-      button: Resources Button Name
+  - infopic:
+      title: Hello
+      description: asdlasnl
+      button: youtube
+      url: youtube.com
+      alt: dagadgad
 ---
