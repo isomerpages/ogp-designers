@@ -28,4 +28,5 @@ sections:
       button: youtube
       url: youtube.com
       alt: dagadgad
+      image: /images/Aladdin.jpg
 ---
