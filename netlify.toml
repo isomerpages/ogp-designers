@@ -1,0 +1,2 @@
+# Create an empty netlify.toml so that Netlify knows that there is custom configuration
+# However, we replace this file with the actual build configuration during Netlify build-time
