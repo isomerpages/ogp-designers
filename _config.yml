@@ -1,11 +1,6 @@
 title: Hello
 url: ''
 favicon: /images/favicon-isomer.ico
-collections:
-  left-nav-two:
-    output: true
-  About Us:
-    output: true
 resources_name: resource-room
 permalink: none
 baseurl: ''
@@ -34,11 +29,6 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
 description: test test
 colors:
   primary-color: '#6031b6'
@@ -54,3 +44,11 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
+staging: https://ogp-designers-staging.netlify.app
+prod: https://ogp-designers-prod.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
