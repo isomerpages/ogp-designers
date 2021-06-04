@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ''
+notification: ""
 sections:
   - hero:
       title: Hero title
@@ -14,11 +14,11 @@ sections:
         title: hello
         options:
           - title: An Agency Leader
-            url: ''
+            url: ""
           - title: A Public officer
-            url: ''
+            url: ""
           - title: A Member of the Public
-            url: ''
+            url: ""
   - infobar:
       title: Contact us
       description: About a sentence worth of description here
@@ -29,4 +29,8 @@ sections:
       url: youtube.com
       alt: dagadgad
       image: /images/Aladdin.jpg
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
