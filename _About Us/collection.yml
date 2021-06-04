@@ -1,0 +1,9 @@
+collections:
+  About Us:
+    output: false
+    order:
+      - who-we-are/.keep
+      - who-we-are/isomer-team.md
+      - who-we-are/ogp-team.md
+      - what-we-do.md
+      - why-isomer.md
