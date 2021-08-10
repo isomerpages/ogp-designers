@@ -12,7 +12,7 @@ links:
     url: /who-we-are/
   - title: About Us
     collection: About Us
-  - title: Left Nav Two
-    collection: left-nav-two
+  - title: Products
+    collection: products
   - title: Resource Room
     resource_room: true
