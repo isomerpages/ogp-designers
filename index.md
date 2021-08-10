@@ -10,18 +10,16 @@ sections:
       title: Hero title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      dropdown:
-        title: hello
-        options:
-          - title: An Agency Leader
-            url: ""
-          - title: A Public officer
-            url: ""
-          - title: A Member of the Public
-            url: ""
-  - infobar:
-      title: Contact us
-      description: About a sentence worth of description here
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Hello
       description: asdlasnl
@@ -33,4 +31,7 @@ sections:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
       button: Resources Button Name
+  - infobar:
+      title: Contact us
+      description: About a sentence worth of description here
 ---
