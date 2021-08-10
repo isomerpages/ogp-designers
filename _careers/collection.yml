@@ -1,5 +1,5 @@
 collections:
-  About Us:
+  careers:
     output: false
     order:
       - who-we-are/.keep
