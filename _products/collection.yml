@@ -1,5 +1,5 @@
 collections:
-  left-nav-two:
+  products:
     output: true
     order:
       - sub-page-c.md
