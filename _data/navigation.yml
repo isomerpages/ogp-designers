@@ -1,16 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: New Folder
+  - title: Who we are
     collection: new-folder
-  - title: Products
-    collection: products
   - title: Contact Us
     url: /contact-us/
-  - title: New Folder
-    collection: new-folder
-  - title: New Folder
-    collection: new-folder
-  - title: New Folder
-    collection: new-folder
-  - title: New Folder
+  - title: New folder
     collection: new-folder
