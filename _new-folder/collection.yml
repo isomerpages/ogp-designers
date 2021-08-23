@@ -3,4 +3,4 @@ collections:
     output: false
     order:
       - meet-the-team.md
-      - why-isomer.md
+      - gallery-page.md
