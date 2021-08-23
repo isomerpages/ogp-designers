@@ -1,5 +1,5 @@
 collections:
-  careers:
+  new-folder:
     output: false
     order:
       - who-we-are/.keep
