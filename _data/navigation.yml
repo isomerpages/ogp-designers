@@ -1,16 +1,16 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Careers
-    collection: careers
+  - title: New Folder
+    collection: new-folder
   - title: Products
     collection: products
   - title: Contact Us
     url: /contact-us/
-  - title: Menu Title
-    collection: careers
-  - title: Menu Title
-    collection: careers
-  - title: Menu Title
-    collection: careers
-  - title: Menu Title
-    collection: careers
+  - title: New Folder
+    collection: new-folder
+  - title: New Folder
+    collection: new-folder
+  - title: New Folder
+    collection: new-folder
+  - title: New Folder
+    collection: new-folder
