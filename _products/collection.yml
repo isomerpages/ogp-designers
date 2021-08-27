@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - careers/.keep
-      - sub-page-c.md
       - sub-page-d.md
