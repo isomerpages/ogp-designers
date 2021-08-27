@@ -1,9 +1,9 @@
 title: Hello
-url: ''
+url: ""
 favicon: /images/favicon-isomer.ico
 resources_name: resource-room
 permalink: none
-baseurl: ''
+baseurl: ""
 exclude:
   - travis-script.js
   - .travis.yml
@@ -21,7 +21,7 @@ include:
   - _redirects
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
       layout: page
 custom_css_path: /misc/custom.css
@@ -31,19 +31,19 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#818181"
+  secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
-      color: '#6031b6'
+      color: "#6031b6"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
 staging: https://ogp-designers-staging.netlify.app
 prod: https://ogp-designers-prod.netlify.app
 plugins:
