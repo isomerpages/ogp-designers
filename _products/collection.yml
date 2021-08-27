@@ -4,4 +4,4 @@ collections:
     order:
       - careers/.keep
       - careers/sub-page-c.md
-      - sub-page-d.md
+      - meet-the-team.md
