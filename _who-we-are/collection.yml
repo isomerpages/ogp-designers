@@ -1,5 +1,5 @@
 collections:
-  products:
+  who-we-are:
     output: true
     order:
       - careers/.keep
