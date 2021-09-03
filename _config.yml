@@ -35,15 +35,15 @@ colors:
   secondary-color: "#818181"
   media-colors:
     - title: media-color-one
-      color: "#6031b6"
+      color: "#818181"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#C9C9C9"
     - title: media-color-three
-      color: "#00838f"
+      color: "#818181"
     - title: media-color-four
-      color: "#00838f"
+      color: "#818181"
     - title: media-color-five
-      color: "#00838f"
+      color: "#818181"
 staging: https://ogp-designers-staging.netlify.app
 prod: https://ogp-designers-prod.netlify.app
 plugins:
