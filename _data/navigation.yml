@@ -4,3 +4,5 @@ links:
     collection: who-we-are
   - title: Contact Us
     url: /contact-us/
+  - title: Blog
+    resource_room: true
