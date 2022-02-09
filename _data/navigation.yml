@@ -6,3 +6,5 @@ links:
     url: /contact-us/
   - title: Blog
     resource_room: true
+  - title: test
+    collection: test-folder
