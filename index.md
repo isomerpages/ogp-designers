@@ -31,6 +31,13 @@ sections:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
       button: Resources Button Name
+  - infopic:
+      title: testing
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      url: google.com
+      alt: Image alt text
   - infobar:
       title: Contact us
       description: About a sentence worth of description here
