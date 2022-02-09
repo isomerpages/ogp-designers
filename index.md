@@ -38,6 +38,7 @@ sections:
       button: Button Text
       url: google.com
       alt: Image alt text
+      image: /images/Aladdin.jpg
   - infobar:
       title: Contact us
       description: About a sentence worth of description here
