@@ -2,5 +2,5 @@ collections:
   test-folder:
     output: true
     order:
-      - Test sub folder/testing page.md
+      - Test sub folder/test page.md
       - Test sub folder/.keep
