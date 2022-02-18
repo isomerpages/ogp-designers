@@ -9,3 +9,8 @@ links:
     sublinks:
       - title: Submenu Title
         url: /permalink
+  - title: submenu 2
+    url: /covid
+    sublinks:
+      - title: Submenu Title
+        url: www.google.com
