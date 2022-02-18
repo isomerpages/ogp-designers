@@ -1,10 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Who we are
-    collection: who-we-are
-  - title: Contact Us
-    url: /contact-us/
-  - title: Blog
+  - title: Menu Title
+    collection: new-folder
+  - title: Menu Title
     resource_room: true
-  - title: test
-    collection: test-folder
+  - title: Menu Title
+    url: www.google.com
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
