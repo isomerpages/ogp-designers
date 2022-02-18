@@ -4,7 +4,7 @@ links:
     collection: new-folder
   - title: Menu Title
     resource_room: true
-  - title: Menu Title
+  - title: submenu
     url: www.google.com
     sublinks:
       - title: Submenu Title
