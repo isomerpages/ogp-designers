@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Hi audrey
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       key_highlights:
