@@ -1,0 +1,7 @@
+collections:
+  test-folder:
+    output: true
+    order:
+      - hackathon.md
+      - Test sub folder/test page.md
+      - Test sub folder/.keep

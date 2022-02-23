@@ -1,0 +1,6 @@
+collections:
+  new-folder:
+    output: false
+    order:
+      - meet-the-team.md
+      - gallery-page.md

@@ -1,0 +1,8 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - Example Title.md
+      - careers/.keep
+      - careers/sub-page-c.md
+      - meet-the-team.md
