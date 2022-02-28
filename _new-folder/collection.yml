@@ -2,5 +2,6 @@ collections:
   new-folder:
     output: false
     order:
+      - COVID19.md
       - meet-the-team.md
       - gallery-page.md
