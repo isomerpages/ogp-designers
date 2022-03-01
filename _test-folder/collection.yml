@@ -2,6 +2,7 @@ collections:
   test-folder:
     output: true
     order:
+      - privacy-statement.md
       - hackathon.md
       - Test sub folder/test page.md
       - Test sub folder/.keep
