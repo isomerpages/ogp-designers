@@ -2,5 +2,8 @@ collections:
   new-folder:
     output: false
     order:
+      - privacy.md
+      - Example Title.md
+      - COVID19.md
       - meet-the-team.md
       - gallery-page.md
