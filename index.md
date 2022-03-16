@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hello, welcome!
+      title: Welcome to Isomer!
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       key_highlights:
