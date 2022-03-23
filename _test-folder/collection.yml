@@ -6,5 +6,6 @@ collections:
       - Example Title 1.md
       - privacy-statement.md
       - hackathon.md
+      - Test sub folder/Example Title.md
       - Test sub folder/test page.md
       - Test sub folder/.keep
