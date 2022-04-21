@@ -3,8 +3,7 @@ title: Example Title 3
 permalink: /example-title-3
 description: ""
 ---
-
-# h1
+# **h1**
 
 ## h2
 
