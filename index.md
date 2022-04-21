@@ -11,9 +11,9 @@ sections:
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       key_highlights:
-        - title: Key Highlight Title
+        - title: example title 3
           description: Key Highlight description
-          url: ""
+          url: /example-title-3
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
