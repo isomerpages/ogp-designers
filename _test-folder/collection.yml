@@ -2,6 +2,7 @@ collections:
   test-folder:
     output: true
     order:
+      - Example Title.md
       - Example Title 2.md
       - Example Title 1.md
       - privacy-statement.md
