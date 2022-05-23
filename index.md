@@ -20,13 +20,6 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-  - infopic:
-      title: Hello
-      description: asdlasnl
-      button: youtube
-      url: youtube.com
-      alt: dagadgad
-      image: /images/Aladdin.jpg
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
