@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Menu Title
+  - title: new title
     collection: new-folder
   - title: Menu Title
     resource_room: true
