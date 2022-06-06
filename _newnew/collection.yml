@@ -2,6 +2,7 @@ collections:
   newnew:
     output: true
     order:
+      - what-we-do.md
       - 11 may.md
       - testpage with a super super long title to find out what is the current
         behavior.md
