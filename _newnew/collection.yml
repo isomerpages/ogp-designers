@@ -2,6 +2,8 @@ collections:
   newnew:
     output: true
     order:
+      - testpage with a super super long title to find out what is the current
+        behavior.md
       - terms-of-use.md
       - Example Title 3.md
       - welcomehello.md
