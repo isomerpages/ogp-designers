@@ -1,4 +1,0 @@
----
-title: welcomehello
-permalink: /welcomehello/
----
