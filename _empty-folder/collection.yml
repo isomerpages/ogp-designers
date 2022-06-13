@@ -2,4 +2,5 @@ collections:
   empty-folder:
     output: true
     order:
+      - New/.keep
       - title.md
