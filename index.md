@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Hello, welcome!
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
       key_highlights:
         - title: example title 3
           description: Key Highlight description
