@@ -19,7 +19,6 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-      background: /images/Slide 16_9 - 5.jpg
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
