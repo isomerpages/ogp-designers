@@ -19,6 +19,7 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
+      background: /images/1920x720.jpg
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
