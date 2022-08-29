@@ -1,4 +1,5 @@
 collections:
   hi-gerald:
     output: true
-    order: []
+    order:
+      - Example Title.md
