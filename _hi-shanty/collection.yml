@@ -2,5 +2,6 @@ collections:
   hi-shanty:
     output: true
     order:
+      - V frdr4f/Example Title.md
       - V frdr4f/.keep
       - Example Title.md
