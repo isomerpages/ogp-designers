@@ -1,5 +1,6 @@
 ---
 title: Example Titleh
-permalink: /permalink
+permalink: /permalink/
 description: ""
 ---
+dafewfih
