@@ -9,17 +9,10 @@ sections:
   - hero:
       title: Hello, welcome!
       subtitle: Hero subtitle
-      key_highlights:
-        - title: example title 3
-          description: Key Highlight description
-          url: /example-title-3
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
       background: /images/1920x720.jpg
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
