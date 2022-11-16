@@ -8,11 +8,12 @@ notification: ""
 sections:
   - hero:
       title: Hello, welcome!
-      subtitle: Hero subtitle
+      subtitle: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
+        commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+        magnis dis parturient.
       background: /images/1920x720.jpg
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      button: CLICK HERE
+      url: www.google.com
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
