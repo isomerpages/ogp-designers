@@ -34,7 +34,9 @@ sections:
   - infopic:
       title: testing
       subtitle: Infopic Subtitle
-      description: Infopic description
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis nostru
       button: Button Text
       url: google.com
       alt: Image alt text
