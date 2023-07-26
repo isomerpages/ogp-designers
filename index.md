@@ -14,6 +14,19 @@ sections:
       background: /images/1920x720.jpg
       button: CLICK HERE
       url: www.google.com
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: www.google.com
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
