@@ -12,13 +12,21 @@ sections:
         commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
         magnis dis parturient.
       background: /images/1920x720.jpg
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: Hero Dropdown Element Title
-            url: www.google.com
-          - title: Hero Dropdown Element Title
-            url: www.google.com
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: www.google.com
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+      button: CLICK HERE
+      url: www.google.com
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
