@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: There is a notification here
 sections:
   - hero:
       title: Hello, welcome!
@@ -27,6 +27,8 @@ sections:
       alt: Image alt text
       image: /images/Aladdin.jpg
   - infobar:
-      title: Contact us
-      description: About a sentence worth of description here
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
