@@ -17,6 +17,8 @@ sections:
         options:
           - title: Hero Dropdown Element Title
             url: www.google.com
+          - title: Hero Dropdown Element Title
+            url: www.google.com
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
