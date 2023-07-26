@@ -32,4 +32,11 @@ sections:
       description: Infobar description
       button: Button Text
       url: www.google.com
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/1595831478imgonline-com-ua-CompressToSize-tBOxRfGzn1.jpeg
+      alt: Image alt text
 ---
