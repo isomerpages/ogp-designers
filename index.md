@@ -25,8 +25,6 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-      button: CLICK HERE
-      url: www.google.com
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
