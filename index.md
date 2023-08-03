@@ -13,18 +13,8 @@ sections:
       url: www.google.com
   - resources:
       title: Resources Section Title
-      subtitle: Resources Section Subtitle
+      subtitle: News & Announcements
       button: Resources Button Name
-  - infopic:
-      title: Principal's message?
-      subtitle: Welcome to our website?
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis nostru
-      button: Button Text
-      url: google.com
-      alt: Image alt text
-      image: /images/Aladdin.jpg
   - infopic:
       title: Infopic Title
       subtitle: Upcoming events
@@ -38,6 +28,16 @@ sections:
       description: Infobar description
       button: Button Text
       url: www.google.com
+  - infopic:
+      title: Principal's message?
+      subtitle: Welcome to our website?
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis nostru
+      button: Button Text
+      url: google.com
+      alt: Image alt text
+      image: /images/Aladdin.jpg
   - infopic:
       title: The OGP way
       subtitle: How we learn
