@@ -11,6 +11,7 @@ sections:
       background: /images/akshar-dave-b5uilrpgv_g-unsplash.jpg
       button: Admissions are open
       url: www.google.com
+      subtitle: Growing future leaders
   - resources:
       title: Resources Section Title
       subtitle: News & Announcements
