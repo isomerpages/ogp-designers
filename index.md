@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Growing future leaders
-      background: /images/akshar-dave-b5uilrpgv_g-unsplash.jpg
+      background: /images/chuttersnap-h-lvbjxbxn8-unsplash.jpg
       url: www.google.com
   - resources:
       title: Resources Section Title
