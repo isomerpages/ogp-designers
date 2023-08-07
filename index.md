@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Growing future leaders
       background: /images/akshar-dave-b5uilrpgv_g-unsplash.jpg
-      button: Admissions are open
       url: www.google.com
       subtitle: Growing future leaders
   - resources:
