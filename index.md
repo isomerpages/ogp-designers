@@ -10,7 +10,6 @@ sections:
       title: Growing future leaders
       background: /images/akshar-dave-b5uilrpgv_g-unsplash.jpg
       url: www.google.com
-      subtitle: Growing future leaders
   - resources:
       title: Resources Section Title
       subtitle: News & Announcements
