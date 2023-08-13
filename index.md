@@ -9,9 +9,17 @@ sections:
   - hero:
       background: /images/dsc04552 (1).jpg
       title: Growing future leaders & problem solvers
-      dropdown:
-        title: I am a...
-        options: []
+      key_highlights:
+        - title: Parents
+          description: ""
+          url: ""
+        - title: students
+          description: ""
+          url: ""
+        - title: Teachers
+          description: ""
+          url: ""
+      url: www.google.com
   - resources:
       title: Latest from OGP
       subtitle: News & Announcements
