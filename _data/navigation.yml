@@ -1,13 +1,13 @@
 logo: /images/frame 15131.png
 links:
-  - title: Menu Title
+  - title: About us
     resource_room: true
-  - title: submenu
+  - title: The OGP way
     url: www.google.com
     sublinks:
       - title: Submenu Title
         url: /permalink
-  - title: submenu 2
+  - title: Quick links
     url: /covid
     sublinks:
       - title: Submenu Title
