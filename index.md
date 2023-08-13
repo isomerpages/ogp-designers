@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Hello
+description: test test
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
