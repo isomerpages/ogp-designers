@@ -18,7 +18,8 @@ sections:
         - title: Teachers
           description: ""
           url: ""
-      background: /images/1920x720_.jpg
+      background: /images/Slide 16_9 - 5.jpg
+      title: Growing future leaders
   - resources:
       title: Latest from OGP
       subtitle: News & Announcements
