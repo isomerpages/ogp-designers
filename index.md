@@ -10,11 +10,11 @@ sections:
       background: /images/dsc04552 (1).jpg
       title: Growing future leaders & problem solvers
       key_highlights:
-        - title: Parents
-          description: ""
+        - title: 2023 Calendar
+          description: View all upcoming events
           url: ""
-        - title: students
-          description: ""
+        - title: Quick links
+          description: To other resources & platforms
           url: ""
         - title: Teachers
           description: ""
