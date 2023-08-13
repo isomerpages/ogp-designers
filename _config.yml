@@ -1,5 +1,5 @@
 title: Hello
-url: ""
+url: https://hack.design.gov.sg
 favicon: /images/favicon-isomer.ico
 resources_name: resource-room
 permalink: none
@@ -31,7 +31,7 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
 colors:
-  primary-color: "#818181"
+  primary-color: "#1361f0"
   secondary-color: "#818181"
   media-colors:
     - title: media-color-one
@@ -52,3 +52,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
