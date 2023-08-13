@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Slide 16_9 - 5.jpg
+      background: /images/dsc04552 (1).jpg
       title: Growing future leaders & problem solvers
       dropdown:
         title: I am a...
