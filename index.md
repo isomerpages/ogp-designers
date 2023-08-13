@@ -19,7 +19,7 @@ sections:
         - title: Teachers
           description: ""
           url: ""
-      background: /images/dsc04552 (1).jpg
+      background: /images/1920x720.jpg
   - resources:
       title: Latest from OGP
       subtitle: News & Announcements
