@@ -32,12 +32,12 @@ safe: false
 description: test test
 colors:
   primary-color: "#1361f0"
-  secondary-color: "#818181"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
-      color: "#818181"
+      color: "#1552bc"
     - title: media-color-two
-      color: "#C9C9C9"
+      color: "#4a89f4"
     - title: media-color-three
       color: "#818181"
     - title: media-color-four
