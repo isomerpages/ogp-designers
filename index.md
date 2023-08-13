@@ -7,9 +7,20 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Growing future leaders
-      background: /images/chuttersnap-h-lvbjxbxn8-unsplash.jpg
+      title: Growing future leaders and problem solvers
+      background: /images/church-of-the-king-j9jzsqfh5yi-unsplash.jpg
       url: www.google.com
+      button: Tour our campus
+      key_highlights:
+        - title: Parents
+          description: ""
+          url: ""
+        - title: students
+          description: ""
+          url: ""
+        - title: Teachers
+          description: ""
+          url: ""
   - resources:
       title: Resources Section Title
       subtitle: News & Announcements
