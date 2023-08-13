@@ -7,10 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Growing future leaders and problem solvers
+      title: Growing future leaders & problem solvers
       background: /images/church-of-the-king-j9jzsqfh5yi-unsplash.jpg
       url: www.google.com
-      button: Tour our campus
       key_highlights:
         - title: Parents
           description: ""
