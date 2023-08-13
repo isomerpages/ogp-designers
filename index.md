@@ -19,6 +19,7 @@ sections:
         - title: Teachers
           description: ""
           url: ""
+      background: /images/dsc04552 (1).jpg
   - resources:
       title: Resources Section Title
       subtitle: News & Announcements
