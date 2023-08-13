@@ -21,9 +21,9 @@ sections:
           url: ""
       background: /images/dsc04552 (1).jpg
   - resources:
-      title: Resources Section Title
+      title: Latest from OGP
       subtitle: News & Announcements
-      button: Resources Button Name
+      button: View all
   - infopic:
       title: Infopic Title
       subtitle: Upcoming events
