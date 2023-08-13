@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Growing future leaders & problem solvers
       url: www.google.com
       key_highlights:
         - title: Parents
