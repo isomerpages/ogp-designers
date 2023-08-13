@@ -10,14 +10,14 @@ sections:
       background: /images/dsc04552 (1).jpg
       title: Growing future leaders & problem solvers
       key_highlights:
-        - title: 2023 Calendar
+        - title: 2023 School Calendar
           description: View all upcoming events
           url: ""
         - title: Quick links
-          description: To other resources & platforms
+          description: Online resources & platforms
           url: ""
-        - title: Teachers
-          description: ""
+        - title: Logistics & Contact info
+          description: Administrative help
           url: ""
       url: www.google.com
   - resources:
