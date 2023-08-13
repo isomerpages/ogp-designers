@@ -7,19 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: www.google.com
-      key_highlights:
-        - title: Parents
-          description: ""
-          url: ""
-        - title: students
-          description: ""
-          url: ""
-        - title: Teachers
-          description: ""
-          url: ""
       background: /images/Slide 16_9 - 5.jpg
-      title: Growing future leaders
+      title: Growing future leaders & problem solvers
+      dropdown:
+        title: I am a...
+        options: []
   - resources:
       title: Latest from OGP
       subtitle: News & Announcements
