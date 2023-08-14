@@ -20,6 +20,7 @@ sections:
           description: Administrative help
           url: ""
       url: www.google.com
+      button: Visit our 2023 open house
   - resources:
       title: Latest from OGP
       subtitle: News & Announcements
