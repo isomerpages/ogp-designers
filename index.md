@@ -10,17 +10,15 @@ sections:
       background: /images/dsc04552 (1).jpg
       title: Growing future leaders & problem solvers
       key_highlights:
-        - title: 2023 School Calendar
-          description: View all upcoming events
+        - title: For Students
+          description: ""
           url: ""
-        - title: Quick links
-          description: Online resources & platforms
+        - title: For Parents
+          description: ""
           url: ""
-        - title: Logistics & Contact info
-          description: Administrative help
+        - title: For Teachers
+          description: ""
           url: ""
-      url: www.google.com
-      button: Visit our 2023 open house
   - resources:
       title: Latest from OGP
       subtitle: News & Announcements
