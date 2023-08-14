@@ -4,7 +4,7 @@ title: Hello
 description: test test
 image: /images/isomer-logo.svg
 permalink: /
-notification: School will be closed on 31 Sep 2023 for PSLE Oral
+notification: ""
 sections:
   - hero:
       background: /images/dsc04552 (1).jpg
