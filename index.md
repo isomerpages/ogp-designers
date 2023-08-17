@@ -31,7 +31,7 @@ sections:
       description: Congratulations to the NoteFlow team for being one of the teams
         selected to receive $10,000 in funding to further develop their
         products!
-      image: /images/1595831478imgonline-com-ua-CompressToSize-tBOxRfGzn1.jpeg
+      image: /images/noteflow2.jpg
       alt: Image alt text
   - infopic:
       title: A message from our Principal
