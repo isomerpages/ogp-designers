@@ -42,7 +42,7 @@ sections:
       button: Read more
       url: google.com
       alt: Image alt text
-      image: /images/Aladdin.jpg
+      image: /images/christina-wocintechchat-com-swi1dgrcshq-unsplash.jpg
   - infobar:
       title: Celebrating Halloween
       subtitle: Upcoming event
