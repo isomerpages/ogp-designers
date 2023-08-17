@@ -51,8 +51,12 @@ sections:
       button: View all events
       url: www.google.com
   - infopic:
-      title: Events
-      button: View all
+      title: NDP 2023
+      button: View past events
       alt: Image alt text
       url: www.google.com
+      subtitle: Events
+      description: "Take a look at some of the images from this year's NDP
+        celebration! We treated the kids to "
+      image: /images/ogp-designers-staging-netlify-app_ (22).png
 ---
