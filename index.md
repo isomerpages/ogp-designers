@@ -48,7 +48,7 @@ sections:
       subtitle: Upcoming event
       description: On 31 Oct, students are welcomed to come to school in a costume of
         their choice to celebrate the event.
-      button: View all events
+      button: Learn more
       url: www.google.com
   - infopic:
       title: NDP 2023
@@ -57,6 +57,6 @@ sections:
       url: www.google.com
       subtitle: Events
       description: Take a look at some of the images from this year's NDP celebration!
-        We treated the kids to
+        We treated the kids to some sweet treats from our childhood.
       image: /images/img_20230808_155135.jpg
 ---
