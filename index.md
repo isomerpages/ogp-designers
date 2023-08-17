@@ -26,10 +26,11 @@ sections:
       subtitle: News & Announcements
       button: View all
   - infopic:
-      title: Infopic Title
-      subtitle: Upcoming event
-      description: Infopic description
-      button: Button Text
+      title: OGP team won a grand prize at BFG 2023
+      subtitle: in the spotlight
+      description: Congratulations to the NoteFlow team for being one of the teams
+        selected to receive $10,000 in funding to further develop their
+        products!
       image: /images/1595831478imgonline-com-ua-CompressToSize-tBOxRfGzn1.jpeg
       alt: Image alt text
   - infopic:
@@ -43,9 +44,10 @@ sections:
       alt: Image alt text
       image: /images/Aladdin.jpg
   - infobar:
-      title: Infobar Title
+      title: Celebrating Halloween
       subtitle: Upcoming event
-      description: Infobar description
+      description: On 31 Oct, students are welcomed to come to school in a costume of
+        their choice to celebrate the event.
       button: View all events
       url: www.google.com
   - infopic:
