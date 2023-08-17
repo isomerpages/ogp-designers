@@ -56,7 +56,7 @@ sections:
       alt: Image alt text
       url: www.google.com
       subtitle: Events
-      description: "Take a look at some of the images from this year's NDP
-        celebration! We treated the kids to "
-      image: /images/ogp-designers-staging-netlify-app_ (22).png
+      description: Take a look at some of the images from this year's NDP celebration!
+        We treated the kids to
+      image: /images/img_20230808_155135.jpg
 ---
