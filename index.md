@@ -51,9 +51,8 @@ sections:
       button: View all events
       url: www.google.com
   - infopic:
-      title: The OGP way
-      subtitle: How we learn
-      description: Infopic description
-      button: Button Text
+      title: Events
+      button: View all
       alt: Image alt text
+      url: www.google.com
 ---
