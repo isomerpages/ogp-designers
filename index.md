@@ -51,12 +51,9 @@ sections:
       button: Learn more
       url: www.google.com
   - infopic:
-      title: NDP 2023
+      title: Events
       button: View past events
       alt: Image alt text
       url: www.google.com
-      subtitle: Events
-      description: Take a look at some of the images from this year's NDP celebration!
-        We treated the kids to some sweet treats from our childhood.
       image: /images/img_20230808_155135.jpg
 ---
