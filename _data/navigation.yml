@@ -5,8 +5,8 @@ links:
   - title: The OGP way
     url: www.google.com
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Announcements
+        url: /announcements
   - title: Quick links
     url: /covid
     sublinks:
