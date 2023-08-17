@@ -30,7 +30,7 @@ sections:
       subtitle: Announcement
       description: Due to PSLE Oral, lower primary students from P1-P5 will be given a
         rest day.
-      button: View all announcements
+      button: Past announcements
       url: www.google.com
   - infopic:
       title: OGP team won a grand prize at BFG 2023
