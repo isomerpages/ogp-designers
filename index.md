@@ -10,17 +10,16 @@ sections:
       background: /images/dsc04552 (1).jpg
       title: Growing future leaders & problem solvers
       key_highlights:
-        - title: Parents
+        - title: Experiment
           description: ""
           url: ""
-        - title: Students
+        - title: Demonstrate
           description: ""
           url: ""
-        - title: Teachers
+        - title: Propagate
           description: ""
           url: ""
       url: www.google.com
-      button: Apply for DSA 2024
   - resources:
       title: Latest from OGP
       subtitle: News & Announcements
