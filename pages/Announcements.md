@@ -10,6 +10,7 @@ Celebrate with us by writing onto our Wall of Appreciation for what you love abo
 ---
 
 ##### [[3 Aug 2023] Building Singapore's COVID19 Vaccination Booking System, A fireside chat](www.google.com)
+Look behind the scenes in our new #UncoverOGP video through the link above.
 
 ---
 
@@ -20,10 +21,7 @@ Due to PSLE Oral, lower primary students from P1-P5 will be given a rest day. Pl
 
 ---
 
-##### [9 Apr 2023] OGP Circular Apr 2023
-
-New link
-
+##### [[9 Apr 2023] OGP Circular Apr 2023](www.google.com)
 
 ---
 
@@ -60,4 +58,3 @@ Students will not be mandated to come into school with masks from the start of t
 School will be closed for mandatory cleaning on 24 Aug 2023, Tuesday. Please do not come to school on this day.
 
 ---
-
