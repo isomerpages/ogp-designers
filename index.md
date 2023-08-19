@@ -58,13 +58,12 @@ sections:
         tackle problems faced by Singaporeans! 🙋🏻‍♀️🙋🏽‍♂️ More details to be
         released soon.
       subtitle: Watch this space
-  - infobar:
-      title: School closure on 24 Aug 2023
-      subtitle: 13 Apr 2023 – Announcement
-      description: Due to PSLE Oral, lower primary students from P1-P5 will be given a
-        rest day.
-      button: Past announcements
-      url: www.google.com
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infopic:
       title: Build For Good 2023
       subtitle: 3 Jun – 1 Jul 2023
@@ -75,10 +74,11 @@ sections:
       url: www.google.com
       image: /images/finalasdsa.png
       alt: Image alt text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+  - infobar:
+      title: School closure on 24 Aug 2023
+      subtitle: 13 Apr 2023 – Announcement
+      description: Due to PSLE Oral, lower primary students from P1-P5 will be given a
+        rest day.
+      button: Past announcements
+      url: www.google.com
 ---
