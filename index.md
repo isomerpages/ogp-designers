@@ -4,34 +4,22 @@ title: Hello
 description: test test
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Our mission is to build tech for public good
 sections:
   - hero:
       background: /images/dsc04552 (1).jpg
       title: Growing future leaders & problem solvers
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: Option 1
-            url: ""
-          - title: Option 2
-            url: ""
-          - title: Option 3
-            url: ""
-          - title: Option 4
-            url: ""
-          - title: Option 5
-            url: ""
-          - title: Option 6
-            url: ""
-          - title: Option 7
-            url: ""
-          - title: Option 8
-            url: ""
-          - title: Option 9
-            url: ""
-          - title: Option 10
-            url: ""
+      key_highlights:
+        - title: Experiment
+          description: ""
+          url: ""
+        - title: Demonstrate
+          description: ""
+          url: ""
+        - title: Propagate
+          description: ""
+          url: ""
+      url: www.google.com
   - resources:
       title: Latest from OGP
       subtitle: News & Announcements
