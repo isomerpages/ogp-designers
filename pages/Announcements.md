@@ -3,17 +3,6 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-##### [3 Aug2023] OGP's First Year Anniversary is here!
-
-Celebrate with us by writing onto our Wall of Appreciation for what you love about your school! [Learn more about this initiative](www.google.com)
-
----
-
-##### [[3 Aug 2023] Building Singapore's COVID19 Vaccination Booking System, A fireside chat](www.google.com)
-Look behind the scenes in our new #UncoverOGP video through the link above.
-
----
-
 ##### [13 Apr 2023] School closure on 31 April for PSLE Oral
 Due to PSLE Oral, lower primary students from P1-P5 will be given a rest day. Please do not come to school on this day, we will turn away students who appear.
 
