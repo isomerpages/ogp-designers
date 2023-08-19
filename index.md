@@ -25,13 +25,6 @@ sections:
       title: Latest from OGP
       subtitle: News & Announcements
       button: View all
-  - infobar:
-      title: School closure on 24 Aug 2023
-      subtitle: "13 Apr 2023 – Announcement "
-      description: Due to PSLE Oral, lower primary students from P1-P5 will be given a
-        rest day.
-      button: Past announcements
-      url: www.google.com
   - infopic:
       title: OGP team won a grand prize at BFG 2023
       subtitle: in the spotlight
@@ -63,4 +56,11 @@ sections:
       alt: Image alt text
       url: www.google.com
       image: /images/img_20230808_155135.jpg
+  - infobar:
+      title: School closure on 24 Aug 2023
+      subtitle: 13 Apr 2023 – Announcement
+      description: Due to PSLE Oral, lower primary students from P1-P5 will be given a
+        rest day.
+      button: Past announcements
+      url: www.google.com
 ---
