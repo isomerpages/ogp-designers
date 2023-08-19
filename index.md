@@ -50,11 +50,14 @@ sections:
       button: Learn more
       url: www.google.com
   - infopic:
-      title: Events
-      button: View past events
+      title: Build For Good 2023
       alt: Image alt text
       url: www.google.com
       image: /images/frame 22.png
+      description: Join us for a month long hackathon where you can build solutions to
+        tackle problems faced by Singaporeans! 🙋🏻‍♀️🙋🏽‍♂️ More details to be
+        released soon.
+      subtitle: Watch this space
   - infobar:
       title: School closure on 24 Aug 2023
       subtitle: 13 Apr 2023 – Announcement
