@@ -26,8 +26,6 @@ sections:
             url: ""
           - title: Option 7
             url: ""
-          - title: Option 7
-            url: ""
           - title: Option 8
             url: ""
           - title: Option 9
