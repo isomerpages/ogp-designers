@@ -54,7 +54,7 @@ sections:
       button: View past events
       alt: Image alt text
       url: www.google.com
-      image: /images/img_20230808_155135.jpg
+      image: /images/frame 22.png
   - infobar:
       title: School closure on 24 Aug 2023
       subtitle: 13 Apr 2023 – Announcement
@@ -62,4 +62,20 @@ sections:
         rest day.
       button: Past announcements
       url: www.google.com
+  - infopic:
+      title: Build For Good 2023
+      subtitle: 3 Jun – 1 Jul 2023
+      description: Want to make Singapore better? 🇸🇬  Join us for a month long
+        hackathon where you can build solutions to tackle problems faced by
+        Singaporeans! 🙋🏻‍♀️🙋🏽‍♂️
+      button: Sign me up!
+      url: www.google.com
+      image: /images/finalasdsa.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
