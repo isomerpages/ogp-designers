@@ -4,19 +4,19 @@ title: Hello
 description: test test
 image: /images/isomer-logo.svg
 permalink: /
-notification: Our mission is to build tech for public good
+notification: ""
 sections:
   - hero:
       background: /images/dsc04552 (1).jpg
       title: Growing future leaders & problem solvers
       key_highlights:
-        - title: Experiment
+        - title: School Calendar 2023
           description: ""
           url: ""
-        - title: Demonstrate
+        - title: Quick links
           description: ""
           url: ""
-        - title: Propagate
+        - title: Contact us
           description: ""
           url: ""
       url: www.google.com
@@ -26,18 +26,6 @@ sections:
         problem solvers in an ever evolving digital world with empathy and
         humility.
       url: www.google.com
-  - resources:
-      title: Latest from OGP
-      subtitle: News & Announcements
-      button: View all
-  - infopic:
-      title: OGP team won a grand prize at BFG 2023
-      subtitle: in the spotlight
-      description: Congratulations to the NoteFlow team for being one of the teams
-        selected to receive $10,000 in funding to further develop their
-        products!
-      image: /images/noteflow2.jpg
-      alt: Image alt text
   - infopic:
       title: A message from our Principal
       subtitle: Welcome to OGP
@@ -48,6 +36,14 @@ sections:
       url: google.com
       alt: Image alt text
       image: /images/christina-wocintechchat-com-swi1dgrcshq-unsplash.jpg
+  - infopic:
+      title: OGP team won a grand prize at BFG 2023
+      subtitle: in the spotlight
+      description: Congratulations to the NoteFlow team for being one of the teams
+        selected to receive $10,000 in funding to further develop their
+        products!
+      image: /images/noteflow2.jpg
+      alt: Image alt text
   - infopic:
       title: A month-long citizen hackathon
       alt: Image alt text
@@ -77,4 +73,8 @@ sections:
         rest day.
       button: Past announcements
       url: www.google.com
+  - resources:
+      title: Latest from OGP
+      subtitle: News & Announcements
+      button: View all
 ---
