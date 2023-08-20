@@ -7,11 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/sadsaddca.png
-      title: "ConTechX 2023:  A new beginning"
+      background: /images/dsfsdfdfafas.png
       url: www.google.com
-      subtitle: Discover the latest EduTech trends and innovations shaping the modern
-        world. <br> 3 Jun – 1 Jul 2023
   - infobar:
       title: Leaders with heart
       description: We're committed to growing future leaders, creative thinkers, and
