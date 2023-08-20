@@ -24,6 +24,13 @@ sections:
       title: Latest from OGP
       subtitle: News & Announcements
       button: View all
+  - infobar:
+      title: Celebrating Halloween
+      subtitle: Upcoming event
+      description: On 31 Oct, students are welcomed to come to school in a costume of
+        their choice to celebrate the event.
+      button: Learn more
+      url: www.google.com
   - infopic:
       title: OGP team won a grand prize at BFG 2023
       subtitle: in the spotlight
@@ -42,13 +49,6 @@ sections:
       url: google.com
       alt: Image alt text
       image: /images/christina-wocintechchat-com-swi1dgrcshq-unsplash.jpg
-  - infobar:
-      title: Celebrating Halloween
-      subtitle: Upcoming event
-      description: On 31 Oct, students are welcomed to come to school in a costume of
-        their choice to celebrate the event.
-      button: Learn more
-      url: www.google.com
   - infopic:
       title: OGP team won a grand prize at BFG 2023
       alt: Image alt text
@@ -58,6 +58,21 @@ sections:
         selected to receive $10,000 in funding to further develop their
         products!
       subtitle: in the spotlight
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: OGP team won a grand prize at BFG 2023
+      subtitle: in the spotlight
+      description: Congratulations to the NoteFlow team for being one of the teams
+        selected to receive $10,000 in funding to further develop their
+        products!
+      button: Button Text
+      image: /images/pic placeholder.png
+      alt: Image alt text
   - infobar:
       title: School closure on 24 Aug 2023
       subtitle: 13 Apr 2023 – Announcement
