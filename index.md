@@ -58,8 +58,11 @@ sections:
   - infobar:
       title: School closure on 24 Aug 2023
       subtitle: 13 Apr 2023 – Announcement
-      description: Due to PSLE Oral, lower primary students from P1-P5 will be given a
-        rest day.
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/ZGX9tpz5Q_I" height="“100”%"
+        width="“100”%"></iframe>
       button: Past announcements
       url: www.google.com
   - resources:
