@@ -63,7 +63,6 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/ZGX9tpz5Q_I" height="100%"
         width="100%"></iframe>
-      button: Past announcements
       url: www.google.com
   - resources:
       title: Latest from OGP
