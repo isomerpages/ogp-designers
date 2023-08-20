@@ -50,14 +50,14 @@ sections:
       alt: Image alt text
       image: /images/christina-wocintechchat-com-swi1dgrcshq-unsplash.jpg
   - infopic:
-      title: OGP team won a grand prize at BFG 2023
+      title: A month-long citizen hackathon
       alt: Image alt text
       url: www.google.com
-      image: /images/noteflow2-removebg-preview.png
-      description: Congratulations to the NoteFlow team for being one of the teams
-        selected to receive $10,000 in funding to further develop their
-        products!
-      subtitle: in the spotlight
+      image: /images/frame 26.png
+      description: From tackling scams and environmental problems to healthcare and
+        employment issues, discover more about the solutions aimed at building a
+        better Singapore.
+      button: Explore projects
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
@@ -65,14 +65,12 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: OGP team won a grand prize at BFG 2023
-      subtitle: in the spotlight
-      description: Congratulations to the NoteFlow team for being one of the teams
-        selected to receive $10,000 in funding to further develop their
-        products!
-      button: Button Text
-      image: /images/pic placeholder.png
+      title: Applications are open!
+      subtitle: Build For Good 2023
+      button: Join as a participant
+      image: /images/sadassadsada.png
       alt: Image alt text
+      url: www.google.com
   - infobar:
       title: School closure on 24 Aug 2023
       subtitle: 13 Apr 2023 – Announcement
