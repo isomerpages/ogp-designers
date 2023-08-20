@@ -20,17 +20,16 @@ sections:
           description: ""
           url: ""
       url: www.google.com
+  - infobar:
+      title: Leaders with heart
+      description: We're committed to growing future leaders, creative thinkers, and
+        problem solvers in an ever evolving digital world with empathy and
+        humility.
+      url: www.google.com
   - resources:
       title: Latest from OGP
       subtitle: News & Announcements
       button: View all
-  - infobar:
-      title: Celebrating Halloween
-      subtitle: Upcoming event
-      description: On 31 Oct, students are welcomed to come to school in a costume of
-        their choice to celebrate the event.
-      button: Learn more
-      url: www.google.com
   - infopic:
       title: OGP team won a grand prize at BFG 2023
       subtitle: in the spotlight
