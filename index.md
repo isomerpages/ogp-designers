@@ -9,18 +9,7 @@ sections:
   - hero:
       background: /images/sadsaddca.png
       title: "ConTechX 2023:  A new beginning"
-      key_highlights:
-        - title: School Calendar 2023
-          description: ""
-          url: ""
-        - title: Quick links
-          description: ""
-          url: ""
-        - title: Contact us
-          description: ""
-          url: ""
       url: www.google.com
-      button: Join as a
       subtitle: Discover the latest EduTech trends and innovations shaping the modern
         world. <br> 3 Jun – 1 Jul 2023
   - infobar:
