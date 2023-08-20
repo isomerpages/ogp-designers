@@ -58,22 +58,6 @@ sections:
         tackle problems faced by Singaporeans! 🙋🏻‍♀️🙋🏽‍♂️ More details to be
         released soon.
       subtitle: Watch this space
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Build For Good 2023
-      subtitle: 3 Jun – 1 Jul 2023
-      description: Want to make Singapore better? 🇸🇬  Join us for a month long
-        hackathon where you can build solutions to tackle problems faced by
-        Singaporeans! 🙋🏻‍♀️🙋🏽‍♂️
-      button: Sign me up!
-      url: www.google.com
-      image: /images/finalasdsa.png
-      alt: Image alt text
   - infobar:
       title: School closure on 24 Aug 2023
       subtitle: 13 Apr 2023 – Announcement
