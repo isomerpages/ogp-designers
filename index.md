@@ -56,8 +56,7 @@ sections:
       alt: Image alt text
       url: www.google.com
   - infobar:
-      title: School closure on 24 Aug 2023
-      subtitle: 13 Apr 2023 – Announcement
+      subtitle: Listen to our story
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
