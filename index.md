@@ -50,14 +50,14 @@ sections:
       button: Learn more
       url: www.google.com
   - infopic:
-      title: Build For Good 2023
+      title: OGP team won a grand prize at BFG 2023
       alt: Image alt text
       url: www.google.com
-      image: /images/frame 22.png
-      description: Join us for a month long hackathon where you can build solutions to
-        tackle problems faced by Singaporeans! 🙋🏻‍♀️🙋🏽‍♂️ More details to be
-        released soon.
-      subtitle: Watch this space
+      image: /images/noteflow2-removebg-preview.png
+      description: Congratulations to the NoteFlow team for being one of the teams
+        selected to receive $10,000 in funding to further develop their
+        products!
+      subtitle: in the spotlight
   - infobar:
       title: School closure on 24 Aug 2023
       subtitle: 13 Apr 2023 – Announcement
