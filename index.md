@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/dsc04552 (1).jpg
+      background: /images/sadsaddca.png
       title: Growing future leaders & problem solvers
       key_highlights:
         - title: School Calendar 2023
