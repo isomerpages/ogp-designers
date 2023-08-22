@@ -7,8 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/dsfsdfdfafas.png
+      background: /images/sadsaddca.png
       url: www.google.com
+      title: Growing future leaders & problem solvers
+      button: visit out 2023 open house
   - infobar:
       title: Leaders with heart
       description: We're committed to growing future leaders, creative thinkers, and
